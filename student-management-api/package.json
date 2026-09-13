@@ -1,0 +1,21 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "A modular RESTful API for student management built with Node.js and Express.js, featuring full CRUD operations, custom logger middleware, and route modularization.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "student-management",
+    "crud"
+  ],
+  "author": "Vinayak Vashisth <codeREDxbt@users.noreply.github.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

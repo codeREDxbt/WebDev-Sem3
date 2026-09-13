@@ -1,4 +1,4 @@
-[WebDev-Sem3 (Repository Root)](../README.md) / Smart Utility Toolkit
+[WebDev-Sem3 (Repository Root)](../README.md) | **Smart Utility Toolkit** | [Student Management API](../student-management-api/README.md)
 
 # Smart Utility Toolkit
 
@@ -247,4 +247,4 @@ node dice.js 5
 
 ---
 
-[Back to Repository Root](../README.md)
+[Back to Repository Root](../README.md) | [Next Project: Student Management API](../student-management-api/README.md)
