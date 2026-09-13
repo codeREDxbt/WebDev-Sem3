@@ -34,30 +34,6 @@ WebDev-Sem3/
 
 ---
 
-## Getting Started
-
-### Cloning the Repository
-
-```bash
-git clone https://github.com/codeREDxbt/WebDev-Sem3.git
-cd WebDev-Sem3
-```
-
-### Running Projects
-
-Each project operates independently. Navigate to the desired project subfolder and follow its specific instructions:
-
-```bash
-# Example: Running the Smart Utility Toolkit
-cd smart-utility-toolkit
-node calculator.js add 10 5
-node server.js
-```
-
-Refer to the respective project [README.md](./smart-utility-toolkit/README.md) for full usage examples and task details.
-
----
-
 ## Author
 
 - **Vinayak Vashisth**
