@@ -14,7 +14,6 @@ A comprehensive Node.js utility toolkit built using native Node.js core modules.
   - [Task 3: Native HTTP Web Server](#task-3-native-http-web-server)
   - [Task 4: File System Manager](#task-4-file-system-manager)
   - [Task 5: Cryptographic Dice Generator](#task-5-cryptographic-dice-generator)
-- [Getting Started](#getting-started)
 - [Author](#author)
 
 ---
@@ -202,41 +201,6 @@ node dice.js 3
 # Roll 2: Dice Rolled: 6
 # Roll 3: Dice Rolled: 4
 # Dice rolling completed.
-```
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js installed (v16.0.0 or higher recommended). No third-party packages or `npm install` steps required.
-
-### Quick Commands
-
-Navigate to the `smart-utility-toolkit` directory:
-
-```bash
-cd smart-utility-toolkit
-```
-
-Run any of the utilities:
-
-```bash
-# Calculator
-node calculator.js add 25 15
-
-# Custom Module
-node app.js
-
-# HTTP Server
-node server.js
-
-# File Manager
-node fileManager.js
-
-# Dice Generator
-node dice.js 5
 ```
 
 ---
