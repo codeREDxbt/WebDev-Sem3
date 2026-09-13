@@ -13,6 +13,7 @@ yarn-error.log*
 *.tmp
 *.temp
 sample.txt
+source_repo/
 
 # OS generated files
 .DS_Store
