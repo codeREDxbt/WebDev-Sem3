@@ -1,0 +1,25 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "A versatile Node.js utility toolkit featuring a CLI calculator, custom modules, HTTP web server, synchronous file manager, and cryptographic dice roller.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "node server.js",
+    "calc": "node calculator.js",
+    "dice": "node dice.js",
+    "file-manager": "node fileManager.js",
+    "custom-module": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "utility",
+    "calculator",
+    "crypto",
+    "file-management",
+    "http-server"
+  ],
+  "author": "Vinayak Vashisth <codeREDxbt@users.noreply.github.com>",
+  "license": "ISC"
+}
